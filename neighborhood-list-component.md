@@ -134,3 +134,6 @@ Creating the Neighborhood list component
        </div>
    </div>
    ```
+
+## Next up
+[Neighborhood Service](./neighborhood-service.md)

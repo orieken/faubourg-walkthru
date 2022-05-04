@@ -104,3 +104,6 @@ Creating a Header component
        <li data-test-id="add-place"><a href="/add-place" title="Add a new place">Add a place</a></li>
      </ul>
    ```
+
+## Next up
+[Neighborhood Component](./neighborhood-list-component.md)
